@@ -22,10 +22,10 @@
 #include <glm/vec2.hpp>
 #include <glm/vec3.hpp>
 
-#include <CGAL\Delaunay_triangulation_2.h>
-#include <CGAL\Exact_predicates_inexact_constructions_kernel.h>
-#include <CGAL\Triangulation_face_base_with_info_2.h>
-#include <CGAL\Triangulation_vertex_base_with_info_2.h>
+#include <CGAL/Delaunay_triangulation_2.h>
+#include <CGAL/Exact_predicates_inexact_constructions_kernel.h>
+#include <CGAL/Triangulation_face_base_with_info_2.h>
+#include <CGAL/Triangulation_vertex_base_with_info_2.h>
 
 #include "Utils.hpp"
 
